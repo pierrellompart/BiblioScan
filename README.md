@@ -20,6 +20,12 @@ Features
 
 **Note**: A known limitation of scihub.py is that captchas show up every now and then, blocking any searches or downloads.
 
+
+**Download** 
+To download the package, use can either download the .zip or use the following command.
+```
+git clone https://github.com/pierrellompart/BiblioScan.git
+```
 Setup
 ----- 
 Install the required modules
