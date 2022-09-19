@@ -25,6 +25,7 @@ Features
 To download the package, use can either download the .zip or use the following command.
 ```
 git clone https://github.com/pierrellompart/BiblioScan.git
+cd ./BiblioScan
 ```
 Setup
 ----- 
